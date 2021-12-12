@@ -1,0 +1,12 @@
+C:\Users\Hdt\source\repos\watchtower\HonuCensus\bin\Debug\net5.0\HonuCensus.deps.json
+C:\Users\Hdt\source\repos\watchtower\HonuCensus\bin\Debug\net5.0\HonuCensus.dll
+C:\Users\Hdt\source\repos\watchtower\HonuCensus\bin\Debug\net5.0\ref\HonuCensus.dll
+C:\Users\Hdt\source\repos\watchtower\HonuCensus\bin\Debug\net5.0\HonuCensus.pdb
+C:\Users\Hdt\source\repos\watchtower\HonuCensus\obj\Debug\net5.0\HonuCensus.csproj.AssemblyReference.cache
+C:\Users\Hdt\source\repos\watchtower\HonuCensus\obj\Debug\net5.0\HonuCensus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hdt\source\repos\watchtower\HonuCensus\obj\Debug\net5.0\HonuCensus.AssemblyInfoInputs.cache
+C:\Users\Hdt\source\repos\watchtower\HonuCensus\obj\Debug\net5.0\HonuCensus.AssemblyInfo.cs
+C:\Users\Hdt\source\repos\watchtower\HonuCensus\obj\Debug\net5.0\HonuCensus.csproj.CoreCompileInputs.cache
+C:\Users\Hdt\source\repos\watchtower\HonuCensus\obj\Debug\net5.0\HonuCensus.dll
+C:\Users\Hdt\source\repos\watchtower\HonuCensus\obj\Debug\net5.0\ref\HonuCensus.dll
+C:\Users\Hdt\source\repos\watchtower\HonuCensus\obj\Debug\net5.0\HonuCensus.pdb
